@@ -1,6 +1,6 @@
 cask "vibebuddy" do
-  version "0.4.0"
-  sha256 "f439595c41dea91ddbd1b36ad3ad6044ad8e2f95d644cb4fb612c1cac5cee3ff"
+  version "0.4.1"
+  sha256 "02e3a4b21e8197f14d3973b96b0f104e82cfe85a8d286cfd0b8403f0872c85f8"
 
   url "https://github.com/funkymed/VibeBuddy/releases/download/v#{version}/VibeBuddy-#{version}.dmg"
   name "VibeBuddy"
